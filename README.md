@@ -17,4 +17,6 @@ Skills
 ```
   > 030_sessions
   > 045-code-organization
+  > 046_mongodb/15_postgres
+  > 046_mongodb/16_go-mongo
 ```
