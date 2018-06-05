@@ -15,6 +15,6 @@ Skills
 5. mongoDB
 
 ```
-  > 
-  >
+  > 030_sessions
+  > 045-code-organization
 ```
